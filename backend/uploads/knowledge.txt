@@ -1,0 +1,8 @@
+Basant Joshi is a Machine Learning Engineer with 9.5 years of experience in the IT industry. He
+specializes in GenAI, Python programming, and databases like Oracle and MongoDB. His
+expertise extends to deploying AI models using Kubernetes and Docker, making him proficient
+in building scalable AI applications. Born and brought up in Mumbai, Basant completed his
+engineering from Shah and Anchor Kutchi Engineering College, Chembur, in 2015. Although his
+native place is Uttarakhand, he currently resides in Navi Mumbai. Outside of work, Basant is a
+passionate cricket fan, both playing and watching the sport. He also loves adventure activities,
+always seeking new challenges beyond the tech world.
